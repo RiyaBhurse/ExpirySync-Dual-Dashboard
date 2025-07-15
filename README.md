@@ -32,7 +32,7 @@ Before setting up the project, ensure the following are installed:
 
 ### 4.1 Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ExpirySync-Dual-Dashboard.git
+git clone https://github.com/RiyaBhurse/ExpirySync-Dual-Dashboard.git
 cd ICP/SPARKATHON
 ```
 
@@ -151,9 +151,8 @@ ICP/SPARKATHON/
    ```
 3. Verify the rendered `README.md` on your GitHub repository.
 
-### Notes
-- This format uses headings and sections for clarity, suitable for GitHub’s Markdown rendering.
-- Replace `https://github.com/yourusername/ExpirySync-Dual-Dashboard.git` with your actual repository URL.
+
+
 - The project logic (donation today, 50% off for 1-3 days) is documented as of July 15, 2025.
 - If you need to add more sections (e.g., screenshots, API documentation), let me know!
 

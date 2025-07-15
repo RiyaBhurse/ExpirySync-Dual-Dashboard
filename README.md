@@ -155,4 +155,5 @@ ICP/SPARKATHON/
 
 - The project logic (donation today, 50% off for 1-3 days) is documented as of July 15, 2025.
 - If you need to add more sections (e.g., screenshots, API documentation), let me know!
-
+  
+### Redis is utilized in the backend (app.py) to cache inventory data, such as quantity and expiry dates, for quick access after items are added via the admin dashboard. PostgreSQL serves as the primary database, storing the inventory table with columns for item, quantity, and expiry_date, which the customer dashboard queries to generate recommendations.
